@@ -43,7 +43,7 @@
 
 <main class="container">
 	<div style="display: flex; align-items: baseline; justify-content: space-between;">
-		<h1>MyEventWorld</h1>
+		<h1>Eventfully</h1>
 		<img src="logo.png" alt="Logo" />
 	</div>
 
